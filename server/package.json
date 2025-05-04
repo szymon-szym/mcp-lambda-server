@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.802.0",
+    "@modelcontextprotocol/sdk": "^1.10.2",
+    "@types/express": "^5.0.1",
+    "express": "^5.1.0",
+    "zod": "^3.24.3"
+  }
+}
