@@ -1,1 +1,1 @@
-repository for [the blog post](https://placeholder)
+repository for [the blog post](https://dev.to/aws-builders/mcp-server-with-aws-lambda-and-http-api-gateway-1j49)
